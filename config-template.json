@@ -1,0 +1,5 @@
+{
+    "token": "token-here",
+    "clientId": "bot-client-id",
+	"guildId": "discord-server-id"
+}

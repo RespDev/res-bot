@@ -1,9 +1,19 @@
-# res-bot
+# Res's - Discord Bot
 
-Res bot is a discord bot for my community discord server. I didn't use databases or anything when storing stuff as I never really finished the code.
+The discord bot behind a few discord server's
 
-# IMPROVEMENT IDEAS:
+Down below is a quick tutorial on how to run the discord bot correctly.
 
-## Database,
-## Commands to edit fields,
-## Automatic Twitch Notifications instead of Manual
+# How to push new slash commands:
+
+```node deploy-commands.js```
+
+# How to run the bot:
+
+Make sure to duplicate the config-template.json and rename it to config.json.
+
+Fill in all the values with what is said otherwise the bot will not run correctly.
+
+```node index.js```
+
+# Any questions? Feel free to contact resplaysit on discord.
