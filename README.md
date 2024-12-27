@@ -4,6 +4,10 @@ The discord bot behind the ResPlay's Discord server.
 
 Down below is a quick tutorial on how to run the discord bot correctly.
 
+# Improvement Ideas
+
+Database, Commands to edit Values, Automatic Twitch Notifications
+
 # How to push new slash commands:
 
 ```node deploy-commands.js```
